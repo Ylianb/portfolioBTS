@@ -30,8 +30,9 @@ const projects = [
     longDescription: `
       MarieTeam est une application complète permettant la gestion des liaisons maritimes, 
       des réservations et du planning des traversées pour une compagnie maritime.
+      'https://mariteam.vercel.app/'
     `,
-    technologies: ['Next.js', 'React', 'Tailwind', 'supabase'],
+    technologies: ['Next.js', 'React', 'Tailwind', 'Supabase'],
     features: [
       'Gestion des liaisons maritimes',
       'Système de réservation en ligne',
@@ -40,9 +41,9 @@ const projects = [
       'Statistiques et rapports'
     ],
     images: [
-      '/projects/marieteam/home.png',
-      '/projects/marieteam/booking.png',
-      '/projects/marieteam/admin.png'
+      '/M1.png',
+      '/M2.png',
+      '/M3.png'
     ]
   }
 ]
