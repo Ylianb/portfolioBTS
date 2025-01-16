@@ -14,14 +14,14 @@ const projects = [
 
     ],
     images: [
-      '/src/assets/1.png',
-      '/src/assets/2.png',
-      '/src/assets/3.png',
-      '/src/assets/4.png',
-      '/src/assets/5.png',
-      '/src/assets/6.png',
-      '/src/assets/7.png',
-      '/src/assets/8.png'
+      '/public/1.png',
+      '/public/2.png',
+      '/public/3.png',
+      '/public/4.png',
+      '/public/5.png',
+      '/public/6.png',
+      '/public/7.png',
+      '/public/8.png'
     ]
   },
   {
